@@ -25,7 +25,7 @@ SECRET_KEY = '&(tjzhi$zh3az#i_2b8_%#d%s=zlqdp_@k@oz_st-w3290o02$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["daud-twitterapi.herokuapp.com","127.0.0.1"]
+ALLOWED_HOSTS = ["daud-tweets.herokuapp.com","127.0.0.1"]
 
 
 # Application definition
